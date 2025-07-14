@@ -93,12 +93,12 @@ export function Footer() {
         <NavigationItem href="https://git.io/discohook" target="_blank">
           Source Code
         </NavigationItem>
-        <NavigationItem href="https://patreon.com/vivifund" target="_blank">
+        <NavigationItem href="https://discohook.app/donate" target="_blank">
           Support Discohook
         </NavigationItem>
       </NavigationList>
       <LegalInfo>
-        &copy; 2021 The Discohook Authors. Discohook is not affiliated with
+        &copy; 2025 The Discohook Authors. Discohook is not affiliated with
         Discord.
       </LegalInfo>
       <LegalInfo>
